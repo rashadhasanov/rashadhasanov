@@ -1,8 +1,7 @@
 
-																					Hi, I'm Rashad Hasan
 
 
-👋 Hi, I’m @rashadhasanov
+#👋 Hi, I’m @rashadhasanov
 👀 I’m interested in front-end development.
 🌱 I’m currently learning React, Vite, and improving my skills in HTML, CSS, and JavaScript.
 📫 How to reach me: [https://www.linkedin.com/in/rashadhasanov23/]
