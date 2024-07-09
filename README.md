@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="color:blue;">👋 Hi, I’m @rashadhasanov</h1>
-</div>                                                                   
+  <h1 style="color: blue;">👋 Hi, I’m @rashadhasanov</h1>
+</div>                                                                
 
 👀 I’m interested in front-end development.
 
