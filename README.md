@@ -1,5 +1,5 @@
 <div align="center">
- 👋 Hi, I’m Rashad Hasan
+# 👋 Hi, I’m Rashad Hasan
 </div>                                                                
 
 👀 I’m interested in front-end development.
