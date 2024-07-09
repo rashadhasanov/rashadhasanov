@@ -1,8 +1,6 @@
-<div style="text-align:center">
-
-# 👋 Hi, I’m @rashadhasanov
-
-</div>                                                                          
+<div align="center">
+  <h1>👋 Hi, I’m @rashadhasanov</h1>
+</div>                                                                      
 
 👀 I’m interested in front-end development.
 
