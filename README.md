@@ -1,4 +1,8 @@
-#                                                                       👋 Hi, I’m @rashadhasanov                                                                               
+<div style="text-align:center">
+
+# 👋 Hi, I’m @rashadhasanov
+
+</div>                                                                          
 
 👀 I’m interested in front-end development.
 
